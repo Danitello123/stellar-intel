@@ -20,8 +20,9 @@ the specific asset(s) each domain issues live in its own `stellar.toml`
 Generated from `node scripts/anchor-survey.mjs --json`, captured in
 [`scripts/anchor-survey.snapshot.json`](../../scripts/anchor-survey.snapshot.json)
 (snapshot `2026-06-25`): **92** directory-tagged domains → **32** reachable →
-**23** issuer-only (and 9 transfer-capable). Refresh monthly with the survey and
-update this list alongside `maintainer.md` §11.
+**23** issuer-only (and 9 transfer-capable). Refresh monthly with the survey;
+see the [snapshot](../../scripts/anchor-survey.snapshot.json) and
+[anchor recrawl workflow](../../.github/workflows/anchor-recrawl.yml).
 
 ## Issuer-only domains (23)
 
